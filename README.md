@@ -1,5 +1,4 @@
 ### Hi there 👋
-Here are some ideas to get you started:
 🌱 I’m currently learning Machine learning
 📫 How to reach me: sgoswa22@asu.edu
 
